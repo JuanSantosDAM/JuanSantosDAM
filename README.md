@@ -4,6 +4,8 @@
 Hello, I'm Juan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 
+  <h2> Student of Development of multiplataform applications</h2>
+
 <img src="https://komarev.com/ghpvc/?username=niicooalv&color=green" alt="Profile views" align='right'/>
 <br/>
 
@@ -24,7 +26,7 @@ Hello, I'm Juan!
 
 <hr>
 
-## 🛠️ My Favorite Tools
+
 
 ### 👨‍💻 Languages
 <p>
@@ -40,22 +42,6 @@ Hello, I'm Juan!
 
 
 
-## GitHub Stats
 
-| Juan´s Stats |
-|:------------------:|
-| ![niicooalv's github stats](https://github-readme-stats.vercel.app/api?username=niicooalv&show_icons=true&theme=algolia) |
-| ![niicooalv's Stars](https://github-readme-stats.vercel.app/api?username=niicooalv&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
 
-<table style="border: none">
-  <tr>
-    <td width="50%" valign="top">
-      ## Let's Work Together!
-      If you have any questions about frontend or backend web development, feel free to <a href="mailto:test@test.local">contact me through email</a>.
-    </td>
-    <td width="50%" valign="top">
-      ## It's not perfect, isn't it?
-      *<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">*
-    </td>
-  </tr>
-</table>
+
