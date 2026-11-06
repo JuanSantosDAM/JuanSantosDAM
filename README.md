@@ -1,7 +1,7 @@
 <h1 align="center">🚧 Under Construction 🚧</h1>
 
 <h1 align="center">
-Hello, I'm Nico!
+Hello, I'm Juan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 
 <img src="https://komarev.com/ghpvc/?username=niicooalv&color=green" alt="Profile views" align='right'/>
